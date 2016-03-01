@@ -1,0 +1,2 @@
+# myProject
+Projelerim icin olusturulmustur
